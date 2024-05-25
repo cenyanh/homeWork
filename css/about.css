@@ -1,0 +1,37 @@
+#about-tx {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  border-radius: 50%;
+  border-width: 1px;
+}
+
+#about-name {
+  position: absolute;
+  font-size: 20px;
+  font-weight: bold;
+  width: max-content;
+  left: 50%;
+  top: 18%;
+  transform: translate(-50%, 0);
+}
+
+#about-content {
+  position: absolute;
+  font-weight: 400;
+  left: 50%;
+  top: 30%;
+  transform: translate(-50%, 0);
+}
+
+#about-github-ref {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+#about-github-img {
+  width: 50px;
+}

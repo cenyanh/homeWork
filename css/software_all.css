@@ -1,0 +1,48 @@
+#a {
+  text-decoration: none;
+  color: black;
+  left: 10%;
+  top: 50%;
+  transform: translate(0, -50%);
+}
+
+#a:hover {
+  color: rgb(2, 163, 232);
+}
+
+#a-p {
+  position: absolute;
+  font-size: 24px;
+  font-weight: bold;
+  top: 50%;
+  left: 15%;
+  transform: translate(-50%, 0);
+}
+
+#img {
+  position: absolute;
+  width: 80px;
+  top: 40%;
+  left: 15%;
+  transform: translate(-50%, -50%);
+}
+
+#brief {
+  position: absolute;
+  width: 60%;
+  left: 30%;
+  top: 15%;
+}
+
+#a-link {
+  position: absolute;
+  text-decoration: none;
+  color: black;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+#a-link:hover {
+  color: rgb(2, 163, 232);
+}

@@ -1,0 +1,45 @@
+#story-img {
+  position: absolute;
+  width: 256px;
+  top: 50%;
+  left: 10px;
+  transform: translate(0, -50%);
+}
+
+#line {
+  position: absolute;
+  height: 400px;
+  width: 0px;
+  border-style: solid;
+  top: 50%;
+  left: 40%;
+  transform: translate(0, -50%);
+}
+
+#title {
+  font-weight: bold;
+  font-size: 24px;
+  top: 14%;
+}
+
+#author {
+  top: 24%;
+}
+
+#count {
+  top: 31%;
+}
+
+#font-count {
+  top: 38%;
+}
+
+#brief {
+  top: 45%;
+}
+
+.content {
+  position: absolute;
+  left: 48%;
+  width: 300px;
+}

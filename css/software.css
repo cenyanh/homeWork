@@ -1,0 +1,116 @@
+#neovim {
+  position: absolute;
+  top: 12%;
+  left: 15%;
+  width: 80px;
+  height: 100px;
+}
+
+#neovim-img {
+  width: 80px;
+}
+
+#neovim-a {
+  text-decoration: none;
+  color: black;
+}
+
+#neovim-a:hover {
+  color: rgb(2, 163, 232);
+}
+
+#neovim-p {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0);
+}
+
+#powertoy {
+  position: absolute;
+  top: 12%;
+  left: 45%;
+  width: 80px;
+  height: 100px;
+}
+
+#powertoy-img {
+  position: absolute;
+  width: 80px;
+  top: 8px;
+}
+
+#powertoy-a {
+  text-decoration: none;
+  color: black;
+}
+
+#powertoy-a:hover {
+  color: rgb(2, 163, 232);
+}
+
+#powertoy-p {
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translate(-50%, 0);
+}
+
+#vscode {
+  position: absolute;
+  top: 12%;
+  left: 75%;
+  width: 80px;
+  height: 100px;
+}
+
+#vscode-img {
+  position: absolute;
+  width: 80px;
+  top: 8px;
+}
+
+#vscode-a {
+  text-decoration: none;
+  color: black;
+}
+
+#vscode-a:hover {
+  color: rgb(2, 163, 232);
+}
+
+#vscode-p {
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translate(-50%, 0);
+}
+
+#snipaste {
+  position: absolute;
+  top: 62%;
+  left: 15%;
+  width: 80px;
+  height: 100px;
+}
+
+#snipaste-img {
+  position: absolute;
+  width: 80px;
+  top: 8px;
+}
+
+#snipaste-a {
+  text-decoration: none;
+  color: black;
+}
+
+#snipaste-a:hover {
+  color: rgb(2, 163, 232);
+}
+
+#snipaste-p {
+  position: absolute;
+  left: 50%;
+  top: 100%;
+  transform: translate(-50%, 0);
+}
